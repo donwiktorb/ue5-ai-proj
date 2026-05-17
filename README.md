@@ -2,6 +2,8 @@
 
 Small Unreal Engine 5 C++ prototype focused on enemy AI, character movement, weapon handling, and animation integration.
 
+[Video](https://pages.github.com/](https://youtu.be/ESm8_Zni0ZI)
+
 ## Current Features
 
 - C++ enemy character based on a shared character base class
